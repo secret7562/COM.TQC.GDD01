@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">COM.TQC.GDD01</string>
+    <string name="welcome_text">BMI</string>
+    <string name="height">Height(m):</string>
+    <string name="weight">Weght(kg):</string>
+    <string name="hintHeight" >Please input your height</string>
+    <string name="hintWeight">Please input your weight</string>
+    <string name="btSubmit">Submit</string>
+    <string name="male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Sex">Sex:</string>
+    <string name="backHome" >Home</string>
+    <string name="underweight_msg">You are too thin, you should eat more.</string>
+    <string name="normalweight_msg">You are very healthy!!</string>
+    <string name="overweight_msg">You are too fat, you should eat less and move more.</string>
+</resources>

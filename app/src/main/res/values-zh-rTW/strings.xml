@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計算BMI值</string>
+    <string name="welcome_text">計算你/妳的BMI值</string>
+    <string name="height">身高(m):</string>
+    <string name="weight">體重(kg):</string>
+    <string name="hintHeight">請輸入你的身高</string>
+    <string name="hintWeight">請輸入你的體重</string>
+    <string name="btSubmit">提交</string>
+    <string name="male">男性</string>
+    <string name="Female">女性</string>
+    <string name="Sex">男性/女性:</string>
+    <string name="backHome">回上一頁</string>
+    <string name="underweight_msg">您該多吃點</string>
+    <string name="normalweight_msg">體型很棒喔</string>
+    <string name="overweight_msg">您該少吃些，並多多運動</string>
+</resources>
